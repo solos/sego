@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/solos/bleve"
+	"github.com/blevesearch/bleve"
 	"github.com/yanyiwu/gojieba"
 )
 

@@ -2,9 +2,9 @@ package bleve
 
 import (
 	"errors"
-	"github.com/solos/bleve/analysis"
-	"github.com/solos/bleve/registry"
-	"github.com/solos/sego"
+	"github.com/blevesearch/bleve/analysis"
+	"github.com/blevesearch/bleve/registry"
+	"github.com/blevesearch/sego"
 )
 
 const (
