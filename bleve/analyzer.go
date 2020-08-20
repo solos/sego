@@ -3,8 +3,8 @@ package bleve
 import (
 	"errors"
 
-	"github.com/bleve-search/bleve/analysis"
-	"github.com/bleve-search/bleve/registry"
+	"github.com/blevesearch/bleve/analysis"
+	"github.com/blevesearch/bleve/registry"
 )
 
 type JiebaAnalyzer struct {
